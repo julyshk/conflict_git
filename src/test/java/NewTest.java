@@ -5,7 +5,7 @@ public class NewTest {
     @Test
     void newTest()
     {
-        int i = 3;
+        int i = 4;
         int j = 3;
         int h = i + j;
     }
